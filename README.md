@@ -9,3 +9,10 @@ Long-press (~0.8s) or right-click to bookmark entries (or unbookmark if already 
 Bookmarks can be exported for restoration or transfer. They can be imported back on any device as long as the downloaded file isn't incorrectly modified. Existing bookmarks are replaced by imported ones upon restoration.
  
 Tap or left-click to copy entries directly. Text selection is disabled, so it's advised to use this method. Visit Riham Blogs' [Submit Feedback](https://cigarettesprettysmokes.pages.dev/feedback/) page to let me know if something's wrong or you want to submit a new entry to the database.
+
+## Desktop Preview
+<img width="2208" height="1111" alt="IMG_4465" src="https://github.com/user-attachments/assets/4d3a3c27-c49f-4b70-b38c-39af46a87f0a" />
+
+## Mobile Preview
+<img width="1242" height="2037" alt="IMG_4469" src="https://github.com/user-attachments/assets/be99fb3e-0a1f-4090-b7ed-2b868ddccdaf" />
+
