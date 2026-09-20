@@ -1,4 +1,5 @@
 # Riham Blogs' Kaomoji Database
+Try it out at: [https://cigarettesprettysmokes.pages.dev/kawaii/](https://cigarettesprettysmokes.pages.dev/kawaii/)
 
 It's an opinionated web page for a curated set of over 100 pretty emoticons and aesthetic Unicode combos. Search and browse them by origin (e.g. 'Japanese'), mood (e.g. 'Happy'), type (e.g. 'Cat'), and length (e.g. 'Small'). The entries are also tagged with free-form keywords for search.
  
